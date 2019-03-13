@@ -1,7 +1,7 @@
 {
     "name": "grunt-demo",
       "version": "1.0.0",
-        "description": "Grunt 试炼场",
+        "description": "grunt 试炼场",
           "main": "index.js",
           "scripts": {
                 "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,7 +21,7 @@
                 "homepage": "https://github.com/wangding/grunt-demo#readme",
                 "devDependencies": {
                       "grunt": "^1.0.1",
-                          "grunt-contrib-cssmin": "^2.2.1"
+                          "grunt-contrib-uglify": "^3.3.0"
                               
                 }
 
